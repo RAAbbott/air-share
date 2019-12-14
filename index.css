@@ -1,0 +1,26 @@
+.title {
+    position: relative;
+    top: 150px;
+}
+
+.fileUpload {
+    display: table;
+    margin: 0 auto;
+    height: 150px;
+    width: 500px;
+    border: 3px rgb(155, 154, 154) dotted;
+    position: relative;
+}
+
+.uploadText {
+    position: relative;
+    top: 50px;
+}
+
+.header {
+    height: 300px;
+}
+
+.retrieve {
+    margin-top: 200px;
+}
